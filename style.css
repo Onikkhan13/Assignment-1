@@ -14,7 +14,7 @@ a {
 .hero-section {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(110, 100, 100, 0.719), rgba(2, 0, 0, 0.555)),
+    background: linear-gradient(rgba(11, 3, 3, 0.719), rgba(2, 0, 0, 0.555)),
       url(image2.jpg);
     background-size: cover;
     display: flex;
@@ -35,9 +35,9 @@ a {
 
 .button {
     padding: 15px 30px;
-    background-color: rgb(212, 103, 0);
+    background-color:crimson;
     color: #fff;
-    border-radius: 5px;
+    border-radius: 20px;
   }
 
 
@@ -48,75 +48,75 @@ a {
   }
 
 .heading h1 {
-    font-size: 3rem;
+    font-size: 03rem;
     padding-top: 50px;
     padding-bottom: 30px;
   }
 
 
-  .hero-writing-box h1 {
-    font-size: 6rem;
+.hero-writing-box h1 {
+    font-size: 3rem;
     color: #fff;
     padding-bottom: 30px;
   }
 
 
-  .hero-writing-box {
+.hero-writing-box {
     text-align: center;
   }
 
 
-  .donet-amount {
+.donet-amount {
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
 
-  .donet-amount-box {
+.donet-amount-box {
     padding: 25px 15px;
-    background: rgba(243, 239, 240, 0.356);
+    background: rgba(243, 239, 239, 0.166);
     margin: 0 10px;
     border-radius: 5px;
     margin-bottom: 50px;
   }
 
 
-  .donet-amount-box a {
+.donet-amount-box a {
     color: rgba(46, 39, 39, 0.603);
     font-weight: 600;
     padding: 15px 10px;
   }
 
 
-  .donet-section {
+.donet-section {
     margin-bottom: 50px;
   }
 
 
-  .heading-pera {
+.heading-pera {
     color: #000;
   }
 
 
-  #donet-active {
+#donet-active {
     border: 2px solid rgb(204, 173, 163);
     background-color: rgb(238, 238, 238);
   }
 
 
-  #donet-active {
+#donet-active {
     border: 2px solid rgb(204, 173, 163);
     background-color: rgb(238, 238, 238);
   }
 
 
-  .donet-input-box {
+.donet-input-box {
     text-align: center;
   }
 
 
-  .donet-input-item {
+.donet-input-item {
     width: 500px;
     border-top: none;
     border-left: none;
@@ -129,20 +129,20 @@ a {
   }
 
 
-  ::placeholder {
+::placeholder {
     text-align: center;
     color: rgba(196, 160, 95, 0.678);
   }
 
 
-  .donet-plan-container {
+.donet-plan-container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 100px;
   }
 
-  .donet-plan-box {
+.donet-plan-box {
     width: 400px;
     padding: 40px 0 30px 20px;
     background: rgb(240, 237, 238);
@@ -150,31 +150,31 @@ a {
     border-radius: 5px;
   }
 
-  #donet-plan-box-active {
+#donet-plan-box-active {
     background-color: rgb(240, 230, 185);
   }
-  .donet-plan-box img {
+.donet-plan-box img {
     width: 20%;
     padding-bottom: 30px;
   }
-  .donet-plan-box h1 {
+.donet-plan-box h1 {
     padding-bottom: 20px;
     font-weight: 600;
   }
-  .donet-plan-box p {
+.donet-plan-box p {
     padding-right: 30px;
   }
 
 
 
-  .subscribe-box-container {
+.subscribe-box-container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 200px;
   }
 
-  .subscribe-content {
+.subscribe-content {
     background: rgb(247, 238, 217);
     width: 800px;
     height: 200px;
@@ -183,7 +183,7 @@ a {
     align-items: center;
   }
 
-  .subscribe-box {
+.subscribe-box {
     width: 300px;
     height: 40px;
     outline: none;
@@ -191,11 +191,11 @@ a {
     border: none;
   }
 
-  .subscribe-button {
+.subscribe-button {
     outline: none;
     height: 40px;
     padding: 0 30px;
-    background-color: rgb(175, 99, 36);
+    background-color:aqua;
     border: none;
     color: #fff;
     font-size: 1rem;
@@ -203,23 +203,23 @@ a {
   }
   
 
-  .footer {
+.footer {
     height: 200px;
-    background: #000;
+    background: rgb(2, 13, 19);
     color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
-  .footer-container h1 {
+.footer-container h1 {
     color: crimson;
     font-style: italic;
     padding-bottom: 30px;
     font-family: "Satisfy", cursive;
   }
   
-  .footer-container h3 {
+.footer-container h3 {
     font-weight: 300;
     font-size: 1rem;
     color: rgba(236, 218, 218, 0.63);
